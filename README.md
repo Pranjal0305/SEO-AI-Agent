@@ -1,6 +1,6 @@
 # 🚀 SEO AI Agent
 
-An AI-powered full-stack SEO analysis platform that helps businesses, marketers, bloggers, and content creators analyze websites and receive actionable SEO recommendations using advanced AI models.
+An AI-powered full-stack SEO analysis platform that helps businesses,marketers,bloggers,and content creators analyze websites and receive actionable SEO recommendations using advanced AI models.
 
 The platform combines traditional SEO auditing with Generative Engine Optimization (GEO) to help websites perform better in both search engines and AI-powered search experiences.
 
